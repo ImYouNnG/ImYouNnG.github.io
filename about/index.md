@@ -6,19 +6,10 @@ date: 2016-03-21
 comments: false
 ---
 
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
-* 이화여자대학교
-* EWHA
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* EWHA WOMAN'S UNIVERSITY
+
 
 ## Preview
 
