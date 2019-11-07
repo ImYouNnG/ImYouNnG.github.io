@@ -10,7 +10,7 @@ comments: false
 
 ## Features
 * 이화여자대학교
-* Responsive
+* EWHA
 * Disqus integration
 * Syntax highlighting
 * Optional post image
